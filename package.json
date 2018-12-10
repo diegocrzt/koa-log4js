@@ -1,14 +1,14 @@
 {
-  "name": "koa-log4",
+  "name": "koa-log4-carpincho",
   "version": "2.3.1",
-  "description": "log4js-node support Koa-middleware",
+  "description": "log4js-node support Koa-middleware Carpincho's fork",
   "main": "index.js",
   "scripts": {
     "test": "standard"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dominhhai/koa-log4js.git"
+    "url": "git+https://github.com/diegocrzt/koa-log4js.git"
   },
   "keywords": [
     "log4js",
@@ -16,11 +16,12 @@
     "logger"
   ],
   "author": "Do Minh Hai",
+  "contributors": ["Diego Ramírez"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dominhhai/koa-log4js/issues"
+    "url": "https://github.com/diegocrzt/koa-log4js/issues"
   },
-  "homepage": "https://github.com/dominhhai/koa-log4js#readme",
+  "homepage": "https://github.com/diegocrzt/koa-log4js#readme",
   "dependencies": {
     "log4js": "^3.0.6"
   },
